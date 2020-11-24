@@ -4,7 +4,7 @@ public class test {
     }
 
     public static void yeniMethod(){
-        System.out.println("yeni method hazir");
+
         System.out.println("sepete ekle kismlari buralar");
     }
     private static void sepettenSil(){
