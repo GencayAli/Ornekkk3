@@ -7,4 +7,8 @@ public class test {
         System.out.println("yeni method hazir");
         System.out.println("sepete ekle kismlari buralar");
     }
+    private static void sepettenSil(){
+        System.out.println("sepetten sil bolumu bitti.");
+
+    }
 }
